@@ -1,2 +1,1 @@
-# ThySirTim.github.io
-Timothy F's art portfolio
+#Thy Sir Tim
